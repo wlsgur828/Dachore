@@ -2,7 +2,7 @@ import requests
 import os
 
 # banner
-f=open("text.txt",'r')
+f=open("banner.txt",'r')
 data=f.read()
 print(data)
 f.close()
